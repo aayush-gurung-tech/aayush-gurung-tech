@@ -1,3 +1,8 @@
+<p align="center">
+  <!-- Put your cover image at: aayush-gurung-tech/assets/cover.png -->
+  <img src="assets/cover.png" alt="Aayush Gurung - Cover" width="900" />
+</p>
+
 # 💫 Hi 👋, I'm Aayush Gurung
 ### A passionate Web Developer from Nepal 🇳🇵
 
